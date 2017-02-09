@@ -43,7 +43,7 @@
     "libp2p-swarm": "~0.26.14",
     "mafmt": "^2.1.6",
     "multiaddr": "^2.2.1",
-    "peer-book": "~0.3.1",
+    "peer-book": "0.3.0",
     "peer-id": "~0.8.2",
     "peer-info": "~0.8.3"
   },
